@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Abeer Shukla",
+      "email": "abeer27shukla@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "2",
+      "name": "Mitochondria",
+      "email": "powerhouse@gmail.com",
+      "age": "50"
+    },
+    {
+      "id": "3",
+      "name": "Nucleus",
+      "email": "centerofeverything@gmail.com",
+      "age": "1"
+    },
+    {
+      "id": "5",
+      "name": "Gangleon",
+      "email": "cellfactory@gmail.com",
+      "age": "3"
+    },
+    {
+      "name": "Raghav",
+      "email": "raghav04shukla@gmail.com",
+      "age": "2.5",
+      "id": "By8Ds10IW"
+    }
+  ]
+}
